@@ -1,10 +1,6 @@
 # MERN-Stack-Hospital-Management-System-Web-Application-main-main
 ## A Comprehensive Appointment Booking System
 
-
-
-MERN-Stack-Hospital-Management-System-Web-Application-main-main is an open-source project developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
-
 ## Features
 
 - **User Registration and Authentication:**
